@@ -19,26 +19,8 @@ body {
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
-    position: absolute;
-    top: 200px;
-    left: 400px;
-  }
-  
-  input[type="text"] {
-    padding: 10px;
-    width: 96%;
-    margin-bottom: 10px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-  }
-  
-  button {
-    padding: 10px 20px;
-    background-color: #00d4e7;
-    color: #fff;
-    border: none;
-    border-radius: 3px;
-    cursor: pointer;
+   width: 500px;
+    
   }
   
   .result {
@@ -48,5 +30,14 @@ body {
     border: 1px solid #ccc;
     border-radius: 3px;
     text-align: left;
+  }
+
+  .btn{
+    background-color: #00d4e7;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+
   }
   
